@@ -1,0 +1,5 @@
+data/raw/extracted/
+warehouse/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
